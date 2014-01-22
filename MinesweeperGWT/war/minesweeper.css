@@ -1,0 +1,32 @@
+.gwt-Button.tileWidget {
+	padding: 0px 0px 0px 0px;
+}
+
+.fieldComposite {
+	border-style: ridge;
+	border-color: #98bf21;
+	border-width: 2px;
+}
+ .bestTimesComposite {
+	border-style: ridge;
+	border-color: #98bf21;
+	border-width: 2px;
+	width: 250px;
+}
+
+.bestTimesCell {
+}
+
+.bestTimesHeader {
+	border: 1px solid black;
+	background-color: black;
+	color: #98bf21;
+}
+
+.fieldCompositeCore {
+	
+}
+
+.fieldCompositeCaption {
+	color: red;
+}

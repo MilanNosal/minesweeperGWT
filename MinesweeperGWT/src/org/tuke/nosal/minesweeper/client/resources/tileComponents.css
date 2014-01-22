@@ -1,0 +1,15 @@
+.openedClue {
+  border: 1px inset #ccc;
+  cursor: default;
+  font-weight: bold;
+}
+
+.openedMine { 
+  border: 1px inset #ccc;
+  cursor: default;
+  background: pink;
+}
+
+.marked {}
+
+.closed {}
